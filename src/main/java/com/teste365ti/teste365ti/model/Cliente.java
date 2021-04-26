@@ -22,6 +22,7 @@ public class Cliente {
 	
 	@NotNull
 	private String telefone;
+
 	
 	
 	//GETTERS E SETTERS
